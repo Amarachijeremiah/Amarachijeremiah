@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--I am an Aspiring Nurse Becoming A Data Analyst/Business Intelligence Analyst--
-## Call me a Data Analyst Freak as i love working on data driven project, with intermediate knowledge of Excel,PowerBI etc. 
+I am an Aspiring Nurse Becoming A Data Analyst/Business Intelligence Analyst
+Call me a Data Analyst Freak as i love working on data driven project, with intermediate knowledge of Excel,PowerBI etc. 
 
 Here are some ideas to get you started:
 
