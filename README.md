@@ -7,7 +7,7 @@
 * 👯 I’m looking to collaborate on Data driven companies 
 * 🤔 .
 * 💬 Ask me anythimg about data and excel spreddsheet and i will respond immediately
-* 📫 How to reach me: ...[](www.linkedin.com/in/jeremiah-amarachi-74ba112a7)
+* 📫 How to reach me:[](www.linkedin.com/in/jeremiah-amarachi-74ba112a7)
 * 😄 Pronouns:She
 * ⚡ Fun fact:I love speaking and interacting with tech driven individauls.
 
